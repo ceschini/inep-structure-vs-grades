@@ -1,6 +1,7 @@
 {
   "features": [
     "SG_UF",
+    "CO_MUNICIPIO",
     "TP_DEPENDENCIA",
     "TP_LOCALIZACAO",
     "TP_SITUACAO_FUNCIONAMENTO",
